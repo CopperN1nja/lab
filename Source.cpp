@@ -4,9 +4,9 @@
 using namespace std;
 ostream& man1(ostream& stream)
 
-{
+{std::string message = "Hello World!";
 
-	cout << "message output ";
+	cout << message;
 	return stream;
 }
 

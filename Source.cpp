@@ -11,5 +11,5 @@ int main()
 	cin >> a;
 	cout << "Ваша строка: " << a << endl;
 	
-	cout  << setw(25) << setfill('$') << hex << a; 
-}
+	cout << "Ваша строка в шеснадцатиричном виде: " << setw(25) << setfill('$') << hex << a;
+} 

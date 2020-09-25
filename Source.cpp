@@ -32,7 +32,7 @@ int main()
 {
 	
 
-	cout <<10<<"/t"<<man2<<man1;
+	cout <<man2<<man1;
 	return 0;
 	
 	system("pause");
